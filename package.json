@@ -1,0 +1,21 @@
+{
+  "name": "rss-feed-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "server": "node src/server.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "download": "^8.0.0",
+    "musicmetadata": "^2.0.5",
+    "node-id3": "^0.2.3",
+    "rss-parser": "^3.12.0"
+  }
+}
