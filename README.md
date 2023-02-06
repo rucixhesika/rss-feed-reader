@@ -11,6 +11,9 @@ REST API Server using Express.js that:
 - Two unit tests using jest framework- room for improvement to mock the rss server
 - Improve logging
 
+What is RSS? 
+RSS is a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format, commonly used subscibebale content websites.
+
 ## How to run
 
 To start the server:
